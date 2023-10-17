@@ -1,4 +1,4 @@
-This repo is stolen from my friend https://github.com/TheRealH0u because I liked it, thank you Hou
+This repo is stolen from my friend https://github.com/TheRealH0u because I like green, thank you Hou
 
 - [linux-reset](#linux-reset)
   - [Theme](#theme)
