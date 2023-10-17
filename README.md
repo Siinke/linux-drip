@@ -1,3 +1,5 @@
+This repo is stolen from my friend https://github.com/TheRealH0u because I liked it, thank you Hou
+
 - [linux-reset](#linux-reset)
   - [Theme](#theme)
     - [Installation](#installation)
